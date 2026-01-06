@@ -1,4 +1,4 @@
-# 💫 Sobre mim
+# 💫 Sobre
 
 Sou **Desenvolvedor Web**, atualmente no último semestre de **Análise e Desenvolvimento de Sistemas**, com atuação prática em **projetos reais em produção**, voltados à resolução de problemas concretos de negócio.
 
