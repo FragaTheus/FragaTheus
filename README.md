@@ -18,8 +18,11 @@ Busco projetos onde **decisões técnicas são guiadas por métricas reais**, c�
 
 ## 🌐 Conecte-se Comigo
 
+[
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-(https://linkedin.com/in/matheusfragadev)
+
+](https://linkedin.com/in/matheusfragadev)
 
 ---
 
