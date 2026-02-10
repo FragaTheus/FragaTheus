@@ -1,93 +1,172 @@
-# 💫 Sobre
+# 💫 Sobre Mim
 
-Sou **Desenvolvedor Web**, atualmente no último semestre de **Análise e Desenvolvimento de Sistemas**, com atuação prática em **projetos reais em produção**, voltados à resolução de problemas concretos de negócio.
+**Desenvolvedor Backend Java** transformando desafios de negócio em soluções tecnológicas escaláveis e mensuráveis.
 
-Minha trajetória profissional começou no **atendimento ao público e liderança de equipes**, experiência que hoje influencia diretamente minha forma de desenvolver software: foco no usuário final, clareza na comunicação e soluções técnicas alinhadas à realidade de quem vai utilizá-las.
+Formando em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **projetos reais em produção** e background em atendimento e liderança — o que me dá forte visão de produto e foco no usuário final.
 
-Nos últimos meses, venho me aprofundando no **desenvolvimento web moderno**, atuando principalmente com **Next.js, React, Java e Spring Boot**, aplicando conceitos de **arquitetura, performance, boas práticas, SEO técnico e mensuração de dados**. Tenho preferência por projetos onde decisões técnicas são guiadas por métricas reais, testes e feedback contínuo.
+**Principais entregas:**
+- ✅ Sistema de gestão sanitária com **controle de validade em tempo real**
+- ✅ **Arquitetura de microsserviços** com mensageria assíncrona para jobs de impressão
+- ✅ Landing pages com **98-100 de performance** (PageSpeed) e conversão via GA4/GTM
+- ✅ APIs REST com **Spring Security**, autenticação e rastreabilidade completa
 
-Busco colaborar em projetos que valorizem **organização de código, escalabilidade e evolução contínua**, e estou sempre aberto a **feedbacks técnicos e trocas de conhecimento** que contribuam para meu crescimento como desenvolvedor.
+Busco projetos onde **decisões técnicas são guiadas por métricas reais**, código limpo e evolução contínua.
 
-Meu objetivo é evoluir profissionalmente construindo soluções bem estruturadas, mensuráveis e sustentáveis, unindo visão técnica e entendimento de negócio.
-
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matheus%20Fraga)
+🎯 **Objetivo:** Evoluir como desenvolvedor construindo sistemas bem arquitetados, escaláveis e sustentáveis.
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Conecte-se Comigo
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/matheusfragadev)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🏷️ LaLouise — Sistema de Gestão de Etiquetas Sanitárias
+**SaaS completo** para consultoria sanitária com foco em **restaurantes japoneses**, garantindo conformidade com normas de **segurança alimentar, rastreabilidade e controle de temperatura**.
+
+**Problema resolvido:**
+- ✅ Controle rigoroso de **temperatura e validade** de produtos sensíveis (peixes crus)
+- ✅ Rastreabilidade completa desde **recebimento até produção**
+- ✅ Validade dinâmica em **horas**, conforme normas sanitárias
+- ✅ Automação de **auditorias e inspeções sanitárias**
+
+**Arquitetura técnica:**
+- 🔧 **Monólito Spring Boot** (API REST) + **Microsserviço local** (Jobs de impressão)
+- 📨 Comunicação assíncrona via mensageria (padrão job queue)
+- 🔐 **Spring Security** para autenticação e controle de acesso
+- 🗄️ PostgreSQL com modelagem focada em rastreabilidade
+- 🐳 Docker Compose para orquestração local
+- ⚙️ CI/CD com GitHub Actions
+
+**Funcionalidades principais:**
+1. Recebimento: registro + comparação de temperatura
+2. Armazenamento: controle de setores, validade e estoque
+3. Produção: geração de etiquetas com validade em horas
+4. Notificações: alertas de vencimento e não-conformidades
+
+**Stack:** Java 17 · Spring Boot · PostgreSQL · Docker · Next.js · TypeScript
+
+📂 **Repositório:** [lalouise-sistema-etiqueta](https://github.com/FragaTheus/lalouise-sistema-etiqueta)
+
+> Sistema proprietário em produção para LaLouise Consultoria Sanitária.
+
+---
 
 ### 🔹 Landing Page — Profissão do Século
-Landing page desenvolvida com foco em **performance, SEO, acessibilidade e mensuração de dados**, substituindo uma solução anterior baseada em Canva.
+Landing page de alta performance substituindo solução em Canva, com foco em **SEO, acessibilidade e mensuração de dados**.
 
-**Destaques técnicos:**
-- 🚀 Performance: **100 (Desktop)** | **98 (Mobile)**
-- 🔍 SEO técnico com métricas reais
-- 📊 Monitoramento via **Google Analytics 4** e **Google Tag Manager**
-- ⚙️ Scripts próprios para automação de métricas (PageSpeed Insights API)
+**Resultados:**
+- 🚀 **100 (Desktop)** | **98 (Mobile)** no PageSpeed
+- 📊 Coleta automática de dados com **GA4 + GTM**
+- ⚡ Scripts próprios para automação de métricas via PageSpeed API
+- 📈 Aumento mensurável de conversão vs. solução anterior
 
-**Stack:**  
-Next.js · TypeScript · Tailwind CSS · GA4 · GTM
+**Stack:** Next.js · TypeScript · Tailwind CSS · GA4 · GTM
 
 🔗 **Deploy:** https://profissaodoseculo.com.br  
-📂 **Repositório:** https://github.com/FragaTheus/landing-page-profissao-do-seculo
+📂 **Repositório:** [landing-page-profissao-do-seculo](https://github.com/FragaTheus/landing-page-profissao-do-seculo)
 
-> Projeto em produção, com evolução contínua baseada em dados e feedback do negócio.
+---
 
 ### 🌐 Paulo Carvalho — Perito Judicial
-Website institucional desenvolvido para ampliar a presença digital de um **Perito Judicial**, com foco em **performance**, **usabilidade**, **SEO técnico** e automação de contato com clientes.
+Website institucional para Perito Judicial com **performance otimizada** e **SEO técnico**.
+
+**Destaques:**
+- ⚡ Performance superior (90+ PageSpeed)
+- 🎯 SEO on-page otimizado
+- 📱 Design responsivo e acessível
+- 🔄 Automação de contato com clientes
+
+**Stack:** React · TypeScript · Vite · Joy UI
 
 🔗 **Site:** https://paulocarvalhoperitojudicial.com  
-💻 **Repositório:** https://github.com/FragaTheus/site-perito-judicial-paulo-carvalho  
-📦 **Deploy:** Vercel  
-
-**Stack:** React · TypeScript · Vite · Joy UI · React Router  
-
-📌 Projeto em produção, desenvolvido sob contrato, com arquitetura modular, componentização reutilizável e boas práticas de front-end.
-
+📂 **Repositório:** [site-perito-judicial-paulo-carvalho](https://github.com/FragaTheus/site-perito-judicial-paulo-carvalho)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack Técnica
 
-### 🔧 Back-end
+**Backend:**  
+
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+
+
+
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
 
-### 🎨 Front-end
+
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+
+
+**Frontend:**  
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
-### ⚙️ DevOps & Ferramentas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**DevOps & Ferramentas:**  
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Deploy](https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain_Configuration-4285F4?style=for-the-badge&logo=google-domains&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO_T%C3%A9cnico-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=FragaTheus&icon=0&color=0)](https://visitcount.itsvg.in)
+[
+
+![](https://visitcount.itsvg.in/api?id=FragaTheus&icon=0&color=0)
+
+](https://visitcount.itsvg.in)
