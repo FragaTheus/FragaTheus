@@ -17,11 +17,9 @@ Busco projetos onde **decisões técnicas são guiadas por métricas reais**, c�
 ---
 
 ## 🌐 Conecte-se Comigo
-[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/matheusfragadev)
+(https://linkedin.com/in/matheusfragadev)
 
 ---
 
@@ -164,9 +162,3 @@ Website institucional para Perito Judicial com **performance otimizada** e **SEO
 
 
 ---
-
-[
-
-![](https://visitcount.itsvg.in/api?id=FragaTheus&icon=0&color=0)
-
-](https://visitcount.itsvg.in)
