@@ -3,7 +3,7 @@
 **Desenvolvedor Backend Java · Fullstack quando necessário**
 
 Construo sistemas que resolvem problemas reais de negócio — do domínio ao deploy.  
-Formando em Análise e Desenvolvimento de Sistemas, com projetos próprios rodando em produção.  
+Formando em Análise e Desenvolvimento de Sistemas, com projetos comercials rodando em produção.  
 Background em atendimento e operações: entendo o negócio antes de abrir o editor.
 
 📍 Brasil · SP &nbsp;|&nbsp; 📬 [matheusfragadev@gmail.com](mailto:matheusfragadev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/matheusfragadev) &nbsp;|&nbsp; 🌐 [matheusfragadev.com.br](https://matheusfragadev-gfnr.vercel.app)
