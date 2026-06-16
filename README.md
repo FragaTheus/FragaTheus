@@ -6,7 +6,7 @@ Construo sistemas que resolvem problemas reais de negócio — do domínio ao de
 Formando em Análise e Desenvolvimento de Sistemas, com projetos comercials rodando em produção.  
 Background em atendimento e operações: entendo o negócio antes de abrir o editor.
 
-📍 Brasil · SP &nbsp;|&nbsp; 📬 [matheusfragadev@gmail.com](mailto:matheusfragadev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/matheusfragadev) &nbsp;|&nbsp; 🌐 [matheusfragadev.com.br](https://matheusfragadev-gfnr.vercel.app)
+📍 Brasil · SP &nbsp;|&nbsp; 📬 [matheusfragadev@gmail.com](mailto:matheusfragadev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/matheusfragadev) &nbsp;|&nbsp; 🌐 [matheusfragadev.com.br](https://matheusfragadev.com.br/)
 
 ---
 
@@ -62,7 +62,7 @@ Sistema SaaS multi-tenant que automatiza o ciclo completo de etiquetas de valida
 
 `Java 21` `Spring Boot` `PostgreSQL` `RabbitMQ` `Redis` `Next.js` `TypeScript` `Docker` `Nginx`
 
-[📂 Repositório](https://github.com/FragaTheus/lalouiseprinter) · [🚀 Demo](https://lalouiseprinter-upsj.vercel.app)
+[📂 Repositório](https://github.com/FragaTheus/lalouiseprinter) · [🚀 Demo](https://lalouiseconsultoria.com.br/)
 
 ---
 
